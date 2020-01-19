@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: kapitel_zwo
-description: My attempt at blogging. And thinking. About ideas and debates and what I think is often missing: a chapter two.
+title: "kapitel_zwo"
+description: "My attempt at blogging. And thinking. About ideas and debates and what I think is often missing: a chapter two."
 github_username: sezezulka
 
 # Email and twitter are optional:
