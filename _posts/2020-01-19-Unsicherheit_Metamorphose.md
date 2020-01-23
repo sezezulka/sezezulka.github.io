@@ -1,5 +1,3 @@
-author: sebastian
-
 # Unsicherheit und Metamorphose
 1. TOC 
 {:toc}
