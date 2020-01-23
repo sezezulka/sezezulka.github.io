@@ -24,6 +24,11 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
 
+# added
+collections:
+  authors: 
+#
+
 titles_from_headings:
   enabled:     true
   strip_title: true
