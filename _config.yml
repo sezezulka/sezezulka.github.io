@@ -27,6 +27,7 @@ plugins:
 # added
 collections:
   authors: 
+  output: true
 #
 
 titles_from_headings:
