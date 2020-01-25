@@ -18,7 +18,7 @@ twitter_username: se_zezulka
 use_math: true
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+theme: academic
 plugins:
   - jekyll-feed
   - jekyll-gist
