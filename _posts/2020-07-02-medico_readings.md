@@ -1,4 +1,5 @@
-# Reading list of the metaphisical distance coffee (MeDiCo)
+# The "metaphisical distance coffee" (MeDiCo)
+A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at the Philosophy Department, LSE with Prof. Miklos Redei.
 
 1. Carnap, Rudolf (1932). The elimination of metaphysics through logical analysis of language.
 2. Quine, W. V. (1951). Main trends in recent philosophy: Two dogmas of empiricism. In: *The philosophical Review*, pp. 20-43.
