@@ -15,3 +15,4 @@ A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at t
 12. McSweeney, MM (2019). Logical Realism and the Metaphysics of Logic. In: *Philosophy Compass.* DOI: [https://doi.org/10.1111/phc3.12563](https://doi.org/10.1111/phc3.12563)
 13. Turner, B. S. (2006). Logic(s). Theory, Culture & Society, 23(2–3), 87–93. DOI: [https://doi.org/10.1177/0263276406062572](https://doi.org/10.1177/0263276406062572)
 14. Hodes, Harold T. (1984). Logicism and the Ontological Commitments of Arithmetic.
+15. Richardson (1994). Carnap's Principle of Tolerance. [http://www.jstor.com/stable/410702](http://www.jstor.com/stable/410702)
