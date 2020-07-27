@@ -16,3 +16,4 @@ A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at t
 13. Turner, B. S. (2006). Logic(s). Theory, Culture & Society, 23(2–3), 87–93. DOI: [https://doi.org/10.1177/0263276406062572](https://doi.org/10.1177/0263276406062572)
 14. Hodes, Harold T. (1984). Logicism and the Ontological Commitments of Arithmetic.
 15. Richardson (1994). Carnap's Principle of Tolerance. [http://www.jstor.com/stable/4107023](http://www.jstor.com/stable/4107023)
+16. Heidegger, M., Thoma, D., Moore, I. A., & Fried, G. (2018). What Is Metaphysics? Original Version/Was ist Metaphysik? Urfassung. Philosophy Today, 62(3), 733-751. DOI: [https://doi.org/10.5840/philtoday20181024232](https://doi.org/10.5840/philtoday20181024232)
