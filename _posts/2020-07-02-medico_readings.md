@@ -12,11 +12,11 @@ A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at t
 09. Popper, K. (1970). Normal Science and its Dangers.
 10. Nagel, T. (1974). What is it like to be a bat?. The philosophical review, 83(4), 435-450.
 11. Woodward, J. (2017). Interventionism and the Missing Metaphysics. Metaphysics and the philosophy of science: New essays, 193.
-12. McSweeney, MM (2019). Logical Realism and the Metaphysics of Logic. In: *Philosophy Compass.* DOI: [https://doi.org/10.1111/phc3.12563](https://doi.org/10.1111/phc3.12563)
-13. Turner, B. S. (2006). Logic(s). Theory, Culture & Society, 23(2–3), 87–93. DOI: [https://doi.org/10.1177/0263276406062572](https://doi.org/10.1177/0263276406062572)
+12. McSweeney, MM (2019). Logical Realism and the Metaphysics of Logic. In: *Philosophy Compass.* [DOI.](https://doi.org/10.1111/phc3.12563)
+13. Turner, B. S. (2006). Logic(s). Theory, Culture & Society, 23(2–3), 87–93. [DOI.](https://doi.org/10.1177/0263276406062572)
 14. Hodes, Harold T. (1984). Logicism and the Ontological Commitments of Arithmetic.
 15. Richardson (1994). Carnap's Principle of Tolerance. [http://www.jstor.com/stable/4107023](http://www.jstor.com/stable/4107023)
-16. Heidegger, M., Thoma, D., Moore, I. A., & Fried, G. (2018). What Is Metaphysics? Original Version/Was ist Metaphysik? Urfassung. Philosophy Today, 62(3), 733-751. DOI: [https://doi.org/10.5840/philtoday20181024232](https://doi.org/10.5840/philtoday20181024232)
+16. Heidegger, M., Thoma, D., Moore, I. A., & Fried, G. (2018). What Is Metaphysics? Original Version/Was ist Metaphysik? Urfassung. Philosophy Today, 62(3), 733-751. [DOI.](https://doi.org/10.5840/philtoday20181024232)
 17. Hjortland, O. T. (2017). [Anti-exceptionalism about logic.](http://www.olehjortland.net/wp-content/uploads/2016/06/antiexceptionalism.pdf) Philosophical Studies, 174(3), 631-658.
 18. Bradley, R. (2004). [Ramsey's representation theorem.](http://personal.lse.ac.uk/bradleyr/pdf/Ramsey.dialectica.pdf) Dialectica, 58(4), 483-497.
 19. Daston, L. (1994). [How probabilities came to be objective and subjective.](
