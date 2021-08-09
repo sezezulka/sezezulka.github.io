@@ -10,7 +10,7 @@ A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at t
 07. Dennett, D. C. (2006). Higher-order truths about chmess. Topoi, 25(1-2), 39-41.
 08. von Neumann, John (1955). [Can we survive technology?](http://geosci.uchicago.edu/~kite/doc/von_Neumann_1955.pdf)
 09. Popper, K. (1970). Normal Science and its Dangers.
-10. Nagel, T. (1974). What is it like to be a bat?. The philosophical review, 83(4), 435-450.
+10. Nagel, T. (1974). What is it like to be a bat? The philosophical review, 83(4), 435-450.
 11. Woodward, J. (2017). Interventionism and the Missing Metaphysics. Metaphysics and the philosophy of science: New essays, 193.
 12. McSweeney, MM (2019). Logical Realism and the Metaphysics of Logic. In: *Philosophy Compass.* [DOI.](https://doi.org/10.1111/phc3.12563)
 13. Turner, B. S. (2006). Logic(s). Theory, Culture & Society, 23(2–3), 87–93. [DOI.](https://doi.org/10.1177/0263276406062572)
@@ -23,9 +23,9 @@ A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at t
 https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E304C40AAA1944F39AC95D19F5C0CAC3D7F9A021BE4EF3B12AC6742DD4D43691832B69D1E296DEE29BBEB&originRegion=eu-west-1&originCreation=20210502200704) Historia Mathematica, 21(3), 330-344.
 20. Wigner, E. (1906). The unreasonable effectiveness of mathematics in the natural sciences. Communications in Pure and Applied Mathematics 13, 1–14.
 21. Leitgeb, H. (2013). Scientific philosophy, mathematical philosophy, and all that. Metaphilosophy, 44(3), 267-275.
-22. Lycan, W. G. (2010). What, exactly, is a paradox?. Analysis, 70(4), 615-622.
+22. Lycan, W. G. (2010). What, exactly, is a paradox? Analysis, 70(4), 615-622.
 23. Thompson, E., Frigg, R., & Helgeson, C. (2016). Expert judgment for climate change adaptation. Philosophy of Science, 83(5), 1110-1121.
-24. Legg, C. (2013). What is a logical diagram?. In Visual reasoning with diagrams (pp. 1-18). Birkhäuser, Basel.
+24. Legg, C. (2013). What is a logical diagram? In Visual reasoning with diagrams (pp. 1-18). Birkhäuser, Basel.
 25. Russell, G. (2018), [Logical Nihilism: could there be no logic?](https://doi.org/10.1111/phis.12127). Philosophical Issues, 28: 308-324.
 26. Carroll, L. (1895). What the tortoise said to Achilles. Mind, 4(14), 278-280.
 27. Smith, P. (2011). Squeezing arguments. Analysis, 71(1), 22-30.
