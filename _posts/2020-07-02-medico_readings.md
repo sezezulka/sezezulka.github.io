@@ -30,3 +30,4 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 26. Carroll, L. (1895). What the tortoise said to Achilles. Mind, 4(14), 278-280.
 27. Smith, P. (2011). Squeezing arguments. Analysis, 71(1), 22-30.
 28. Griffiths, O. (2013). Problems for logical pluralism. History and Philosophy of Logic, 34(2), 170-182.
+29. Kitcher, P. (2011). Philosophy inside out. Metaphilosophy, 42(3), 248-260.
