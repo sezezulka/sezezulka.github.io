@@ -31,3 +31,4 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 27. Smith, P. (2011). Squeezing arguments. Analysis, 71(1), 22-30.
 28. Griffiths, O. (2013). Problems for logical pluralism. History and Philosophy of Logic, 34(2), 170-182.
 29. Kitcher, P. (2011). Philosophy inside out. Metaphilosophy, 42(3), 248-260.
+30. Páez, A. (2019). The pragmatic turn in explainable artificial intelligence (XAI). Minds and Machines, 29(3), 441-459.
