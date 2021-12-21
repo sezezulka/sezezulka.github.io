@@ -32,3 +32,4 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 28. Griffiths, O. (2013). Problems for logical pluralism. History and Philosophy of Logic, 34(2), 170-182.
 29. Kitcher, P. (2011). Philosophy inside out. Metaphilosophy, 42(3), 248-260.
 30. Páez, A. (2019). The pragmatic turn in explainable artificial intelligence (XAI). Minds and Machines, 29(3), 441-459.
+31. Latour, B. (2004). Why has critique run out of steam? From matters of fact to matters of concern. Critical inquiry, 30(2), 225-248.
