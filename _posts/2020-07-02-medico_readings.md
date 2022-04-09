@@ -34,3 +34,5 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 30. Páez, A. (2019). The pragmatic turn in explainable artificial intelligence (XAI). Minds and Machines, 29(3), 441-459.
 31. Latour, B. (2004). Why has critique run out of steam? From matters of fact to matters of concern. Critical inquiry, 30(2), 225-248.
 32. Frances, B. (2021). Philosophical proofs against common sense. Analysis, 81(1), 18-26.
+33. Ryckman, T. (2021). Metaphysics Avoidance: Mark Wilson and Ernst Cassirer. Philosophy and Phenomenological Research, 103(2), 466-472.
+34. Marcus, R. (2015). The Eleatic and the indispensabilist. THEORIA. Revista de Teoría, Historia y Fundamentos de la Ciencia, 30(3), 415-429.
