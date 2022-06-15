@@ -37,3 +37,5 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 33. Ryckman, T. (2021). Metaphysics Avoidance: Mark Wilson and Ernst Cassirer. Philosophy and Phenomenological Research, 103(2), 466-472.
 34. Marcus, R. (2015). The Eleatic and the indispensabilist. THEORIA. Revista de Teoría, Historia y Fundamentos de la Ciencia, 30(3), 415-429.
 35. Reinhardt, L. (2015). Good and bad arithmetical manners. Analysis, 75(1), 26-28.
+36. Nietzsche, F. (2017). Nietzsche: On the Genealogy of Morality and Other Writings. Essay 3 (3rd ed., Cambridge Texts in the History of Political Thought) (K. Ansell-Pearson, Ed.; C. Diethe, Trans.). Cambridge: Cambridge University Press.
+37. Foucault, M. (1971). Orders of discourse. Social Science Information, 10(2), 7–30
