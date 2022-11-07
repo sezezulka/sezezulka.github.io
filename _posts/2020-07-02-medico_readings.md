@@ -39,3 +39,6 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 35. Reinhardt, L. (2015). Good and bad arithmetical manners. Analysis, 75(1), 26-28.
 36. Nietzsche, F. (2017). Nietzsche: On the Genealogy of Morality and Other Writings. Essay 3 (3rd ed., Cambridge Texts in the History of Political Thought) (K. Ansell-Pearson, Ed.; C. Diethe, Trans.). Cambridge: Cambridge University Press.
 37. Foucault, M. (1971). Orders of discourse. Social Science Information, 10(2), 7–30
+38. Bright, L. K. (2022). Two Tendencies.
+39. von Hofmannsthal, Hugo (1902). The Letter of Lord Chandos. 
+40. Wolters, G. (2015). Globalized parochialism: Consequences of English as Lingua Franca in philosophy of science. International Studies in the Philosophy of Science, 29(2), 189-200.
