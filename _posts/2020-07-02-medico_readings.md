@@ -42,3 +42,4 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 38. Bright, L. K. (2022). Two Tendencies.
 39. von Hofmannsthal, Hugo (1902). The Letter of Lord Chandos. 
 40. Wolters, G. (2015). Globalized parochialism: Consequences of English as Lingua Franca in philosophy of science. International Studies in the Philosophy of Science, 29(2), 189-200.
+41. Davidson, D. (1973). On the very idea of a conceptual scheme. In Proceedings and addresses of the American Philosophical Association (Vol. 47, pp. 5-20). American Philosophical Association.
