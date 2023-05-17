@@ -44,3 +44,6 @@ https://reader.elsevier.com/reader/sd/pii/S0315086084710287?token=FEB40925F28E30
 40. Wolters, G. (2015). Globalized parochialism: Consequences of English as Lingua Franca in philosophy of science. International Studies in the Philosophy of Science, 29(2), 189-200.
 41. Davidson, D. (1973). On the very idea of a conceptual scheme. In Proceedings and addresses of the American Philosophical Association (Vol. 47, pp. 5-20). American Philosophical Association.
 42. Feyerabend, P. (1999). Theses on anarchism. For and against Method: Including Lakatos's lectures on scientific method and the Lakatos-Feyerabend correspondence, 113-118.
+44. Doulas, L., & Welchance, E. (2021). Against philosophical proofs against common sense. Analysis, 81(2), 207-215.
+45. Chomsky, N. (2023). The False Promise of ChatGPT. in: "The New York Times", 08.03.2023.
+46. Narayanan, A., Salganik, M. (2020). Limits to prediction: pre-read. [COS 597E / SOC 555, Princeton University](https://msalganik.github.io/cos597E-soc555_f2020/schedule.html).
