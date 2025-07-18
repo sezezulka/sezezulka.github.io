@@ -2,7 +2,7 @@
 title: "Writing"
 layout: archive
 sitemap: false
-permalink: /writing.html
+permalink: /writing/
 ---
 
 Writing is important.
