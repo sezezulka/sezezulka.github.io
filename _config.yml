@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : &name 
   pronouns         : # example: "she/her"  
-  bio              : "PhD student Ethics and Epistemology of Machine Learning"
+  bio              : "PhD student, Ethics and Epistemology of Machine Learning"
   location         : # "Earth"
   employer         : "University of Tübingen"
   uri              : # URL
