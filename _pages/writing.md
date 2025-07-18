@@ -1,5 +1,6 @@
 ---
 title: "Writing"
+layout: archive
 sitemap: false
 permalink: /writing.html
 ---
