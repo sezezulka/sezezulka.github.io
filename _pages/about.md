@@ -22,3 +22,5 @@ I work on methods for the normative evaluation of algorithmic policies, performa
 ## Education
 
 I hold a BA in Philosophy & Economics from the University of Bayreuth (2019), an MSc in Philosophy of the Social Sciences from the LSE (2020), and an MSc in Psychometrics, Econometrics, and Machine Learning from the University of Tübingen (2023).
+
+## 
