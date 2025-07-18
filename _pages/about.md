@@ -9,7 +9,7 @@ redirect_from:
   - /home.html
 ---
 
-I am a PhD student in the research group [Ethics and Epistemology of Machine Learning](https://ethics.epistemology.ai){:target="_blank"} in the [Cluster of Excellence 'Machine Learning for Science'](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/epistemology-and-ethics-of-ml/){:target="_blank"} at the University of Tübingen, Germany. 
+I am a PhD student in the research group [Ethics and Epistemology of Machine Learning](https://ethics.epistemology.ai){:target="_blank"} in the [Cluster of Excellence 'Machine Learning for Science'](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/epistemology-and-ethics-of-ml/){:target="_blank"} at the University of Tübingen and part of the International Max Planck Research School for Intelligent Systems (IMPRS-IS). 
 
 I am supervised by [Konstantin Genin](https://kgenin.github.io/){:target="_blank"}, Wolfgang Spohn, and Bob Williamson.
 
