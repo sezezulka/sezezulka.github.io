@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Ethics and Epistemology of Machine Learning"
   location         : # "Earth"
-  employer         : "University of Tübingen"
+  employer         : # "University of Tübingen"
   uri              : # URL
   email            : "sebastian.zezulka@uni-tuebingen.de" 
 
@@ -145,7 +145,7 @@ og_description           :  # Social media default site image description
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 
 # Analytics
