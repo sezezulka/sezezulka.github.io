@@ -8,9 +8,9 @@ permalink: /writing/
 ---
 ## Publications
 
-**From the Fair Distribution of Predictions to the Fair Distribution of Social Goods**, \ 
-Sebastian Zezulka, Konstantin Genin, \
-*Proceedings of FAccT 2024*  
+**From the Fair Distribution of Predictions to the Fair Distribution of Social Goods** \
+Sebastian Zezulka, Konstantin Genin \
+*Proceedings of FAccT 2024* 
 [doi](https://doi.org/10.1145/3630106.3659020){: .btn--research}{:target="_blank"}
 
 ---
