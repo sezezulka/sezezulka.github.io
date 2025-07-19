@@ -8,6 +8,7 @@ author_profile: true
 ---
 
 ## 2025
+---
 **Predictions and Politics**, *Carl Friedrich Weizsäcker Colloqium*, University of Tübingen, July 2025. [Recording](https://www.youtube.com/watch?v=LtEwufTkpZw){: .btn--research}{:target="_blank"}
 
 **Predictions, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** (with Konstantin Genin).
@@ -21,6 +22,7 @@ author_profile: true
 - *EPSA 2025, European Philosophy of Science Association* **(Poster)**, Groningen, The Netherlands, August 2025.
 
 ## 2024
+---
 **Decision-Focused Learning and Values in Machine Learning** (with Konstantin Genin), *SAS24 - Modelling for Policy*, HLRS Stuttgart, Germany, November 2024.
 
 **Risk Scores as Statistical Fatalism.**
@@ -32,12 +34,15 @@ author_profile: true
 **Policy, Power, and Politics of Machine Learning**, Lecture in the course *Beyond Fairness*, University of Tübingen Germany, January 2024.
 
 ## 2023
+---
 **Fairness after Intervention.**
 - *EWAF’23: European Workshop on Algorithmic Fairness* **(In-depth presentation)**, Winterthur, Switzerland, June 2023.
 - *Causality for Ethics and Society*, MCMP, LMU Munich, July 2023.
 
 ## 2020
+---
 **Towards a Bayesian error statistic**, *Postgraduate Conference “Science & Society”*, London School of Economics (LSE), London, UK, September 2020.
 
 ## 2019
+---
 **On democratic authority and the creation of the public sphere,** *think! 2019 - Central European Student Conference in Analytic Philosophy*, University of Bayreuth, Germany, May 2019.
