@@ -13,7 +13,7 @@ I am a PhD student in philosophy of science and machine learning, a member of th
 
 I am supervised by [Konstantin Genin](https://kgenin.github.io/){:target="_blank"}, [Wolfgang Spohn](https://www.philosophie.uni-konstanz.de/ag-spohn/personen/prof-dr-wolfgang-spohn/){:target="_blank"}, and [Bob Williamson](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/forschung/forschung/cluster-arbeitsgruppen/professuren/foundations-of-machine-learning-systems/){:target="_blank"}.
 
-From September to December 2025, I will be in Groningen for a research visit with [Jan Willem Romeijn](https://romeijn.web.rug.nl/){:target="_blank"}.
+From September to December 2025, I will be in Groningen for a research visit with [Jan-Willem Romeijn](https://romeijn.web.rug.nl/){:target="_blank"}.
 
 ## Research
 
