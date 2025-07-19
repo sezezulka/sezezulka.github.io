@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2025
 ---
-**Predictions and Politics**, *Carl Friedrich Weizsäcker Colloqium*, University of Tübingen, July 2025. [Recording](https://www.youtube.com/watch?v=LtEwufTkpZw){: .btn--research}{:target="_blank"}
+**Predictions and Politics**, *Carl Friedrich von Weizsäcker Colloqium*, University of Tübingen, July 2025. [Recording](https://www.youtube.com/watch?v=LtEwufTkpZw){: .btn--research}{:target="_blank"}
 
 **Predictions, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** (with Konstantin Genin).
 - *2nd Workshop on Learning Under Weakly Structured Information*, University of Tübingen, Germany, April 2025.
