@@ -22,8 +22,8 @@ repository               : "sezezulka/sezezulka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/2024-Profilbild-quadrat.jpg"
-  name             : &name "Sebastian Zezulka"
+  avatar           : "/images/2024-Profilbild-quadrat.jpg"
+  name             : # &name 
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Ethics and Epistemology of Machine Learning"
   location         : # "Earth"

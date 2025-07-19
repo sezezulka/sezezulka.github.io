@@ -24,7 +24,7 @@ Sebastian Zezulka, Konstantin Genin \
 **Performativity and Prospective Fairness** \
 Sebastian Zezulka, Konstantin Genin \
 *Algorithmic Fairness through the Lens of Time* Workshop at NeurIPS, 2023
-[arXiv](https://doi.org/10.48550/arXiv.2310.08349){: .btn--research}{:target="_blank"}
+[arXiv](https://doi.org/10.48550/arXiv.2310.08349){: .btn--research}{:target="_blank"} [NeurIPS](https://neurips.cc/virtual/2023/77769){: .btn--research}{:target="_blank"}
 
 
 
