@@ -8,7 +8,7 @@ permalink: /writing/
 ---
 ## Publications
 
-**From the Fair Distribution of Predictions to the Fair Distribution of Social Goods** \
+**From the Fair Distribution of Predictions to the Fair Distribution of Social Goods: Evaluating the Impact of Fair Machine Learning on Long-Term Unemployment** \
 Sebastian Zezulka, Konstantin Genin \
 *Proceedings of FAccT '24*, 2024 \
 [DOI](https://doi.org/10.1145/3630106.3659020){: .btn--research}{:target="_blank"}
