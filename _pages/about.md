@@ -17,7 +17,7 @@ From September to December 2025, I will be in Groningen for a research visit wit
 
 ## Research
 
-*statistics and machine learning, algorithmic fairness, causal inference, philosophy of social science*
+Statistics and machine learning, algorithmic fairness, causal inference, philosophy of social science.
 
 I work on methods for the evaluation of algorithmic policies, performativity in algorithmic fairness, and problems of evidence-based policy and philosophy of (social) sciences as they arise in machine learning.
 
@@ -25,8 +25,8 @@ I work on methods for the evaluation of algorithmic policies, performativity in 
 
 I hold a BA in Philosophy & Economics (University of Bayreuth, 2019), an MSc in Philosophy of the Social Sciences (LSE, 2020), and an MSc in Psychometrics, Econometrics, and Machine Learning (University of Tübingen, 2023).
 
-## Action
+## Volunteering and community work
 
 Together with the philosophy groups at the Machine Learning Cluster, I organized the ["Philosophy of Science Meets Machine Learning"](https://sites.google.com/view/philml-tuebingen/home){:target="_blank"} conferences in 2023 and 2024.
 
-Alongside my academic work, I am a volunteer with [CorrelAid](https://correlaid.org/){:target=“_blank”} and served as chair of the board from 2022 to 2024. CorrelAid empowers non-profits to use data in a critical and reflective way to achieve their goals, while enabling effective engagement for volunteers in Data4Good.
+Alongside my academic work, I am a volunteer with [CorrelAid](https://correlaid.org/){:target="blank"} and served as chair of the board from 2022 to 2024. CorrelAid empowers non-profits to use data in a critical and reflective way to achieve their goals, while enabling effective engagement for volunteers in Data4Good.
