@@ -9,8 +9,7 @@ author_profile: true
 
 ## PhilML reading group
 ---
-The PhilML reading group discusses current topics in the philosophy of machine learning with a special focus on the philosophy of science. All interested students and researchers are welcome to join. Participants are kindly asked to read the respective paper in advance.
-Organized by Timo Freiesleben, Ben Höltgen, and Sebastian Zezulka.
+The PhilML reading group discusses current topics in the philosophy of machine learning with a special focus on the philosophy of science. Organized by Timo Freiesleben, Ben Höltgen, and Sebastian Zezulka.
 
 [**January - March 2023**](/files/reading-lists/PhilML_reading_group_2023-1.pdf){:target="blank"}
 1. Schurz, G. (2017). No Free Lunch Theorem, Inductive Skepticism, and the Optimality of Meta-induction. Philosophy of Science, 84(5), 825-839. doi:10.1086/693929.
