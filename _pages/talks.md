@@ -16,10 +16,12 @@ author_profile: true
 - *Rational Intelligence Seminar Series*, CISPA Helmholtz Centre for Information Security, Saarbrücken, Germany, June 2025.
 - *EWAF'25: European Workshop on Algorithmic Fairness* **(In-depth presentation)**, Eindhoven, The Netherlands, June 2025.
 - *EPSA 2025, European Philosophy of Science Association* **(Presentation)**, Groningen, The Netherlands, August 2025.
+- *17th Biennial INEM Conference, International Network for Economic Method*, Bayreuth, Germany, September 2025.
 
 **The Benchmarking Epistemology: What scientists can learn from competitive comparisons of prediction models** (with Timo Freiesleben).
 - *GWP 2025, Gesellschaft für Wissenschaftsphilosophie*, Erlangen, Germany, March 2025.
 - *EPSA 2025, European Philosophy of Science Association* **(Poster)**, Groningen, The Netherlands, August 2025.
+- *GAP.12, Gesellschaft für analytische Philosophie*, Düsseldorf, Germany, September 2025.
 
 ## 2024
 ---
