@@ -5,8 +5,7 @@ permalink: /reading/medico/
 author_profile: true
 ---
 ---
-## The "metaphysical distance coffee"
---- 
+ 
 A reading group of the 2019/20 PH419: "Set Theory and further Logic" course at the Philosophy Department, LSE with Prof. Miklos Redei. 
 The meetings took place from January 2020 to January 2024.
 

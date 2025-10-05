@@ -4,11 +4,8 @@ title: "PhilML reading group "
 permalink: /reading/philml/
 author_profile: true
 ---
-
 ---
 
-## PhilML reading group
----
 The PhilML reading group discusses current topics in the philosophy of machine learning with a special focus on the philosophy of science. Organized by Timo Freiesleben, Ben Höltgen, and Sebastian Zezulka at the University of Tübingen.
 
 [**January - March 2023**](/files/reading-lists/PhilML_reading_group_2023-1.pdf){:target="blank"}
