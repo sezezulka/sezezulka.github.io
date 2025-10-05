@@ -17,6 +17,7 @@ author_profile: true
 - *EWAF'25: European Workshop on Algorithmic Fairness* **(In-depth presentation)**, Eindhoven, The Netherlands, June 2025.
 - *EPSA 2025, European Philosophy of Science Association* **(Presentation)**, Groningen, The Netherlands, August 2025.
 - *17th Biennial INEM Conference, International Network for Economic Method*, Bayreuth, Germany, September 2025.
+- *EAAMO '25. Equity and Access in Algorithms, Mechanisms, and Optimization* **(Non-archival paper)**, Pittsburgh, USA, November, 2025. [Abstract](https://doi.org/10.1145/3757887.3767685){: .btn--research}
 
 **The Benchmarking Epistemology: What scientists can learn from competitive comparisons of prediction models** (with Timo Freiesleben).
 - *GWP 2025, Gesellschaft für Wissenschaftsphilosophie*, Erlangen, Germany, March 2025.
