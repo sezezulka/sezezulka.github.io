@@ -17,7 +17,7 @@ From September to December 2025, I will be in Groningen for a research visit wit
 
 ## Research
 
-Statistics and machine learning, algorithmic fairness, causal inference, philosophy of social science.
+Topics: statistics and machine learning; algorithmic fairness; causal inference; philosophy of social science.
 
 I work on methods for the evaluation of algorithmic policies, performativity in algorithmic fairness, and problems of evidence-based policy and philosophy of (social) sciences as they arise in machine learning. 
 
