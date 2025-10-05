@@ -6,9 +6,9 @@ author_profile: true
 ---
 --- 
 
-# 
-1. TOC 
 {:toc}
+
+---
 
 Die Welt ist aus den Fugen geraten. Die Wahrheit dieses Satzes setzt eine fundamentale Spaltung voraus: in eine Erwartungshaltung der Welt gegenüber und einer dieser Erwartungshaltung zuwiderlaufenden Realität. Von der Unsicherheit als "Megatrend" zu schreiben setzt damit voraus, dass die von uns beobachtete Realität nicht (mehr) unserer Erwartungshaltung der Welt gegenüber entspricht. Es wird im Folgen deshalb weniger darum gehen, die tektonischen Verschiebungen der Veränderungen selbst zu beschreiben, sondern vielmehr die gesellschaftliche Bezugnahme auf dieses Phänomen als einen Meta-trend zu analysieren. 
 
