@@ -6,7 +6,8 @@ author_profile: true
 ---
 --- 
 
-TOC {:toc}
+1. TOC 
+{:toc}
 
 ---
 
