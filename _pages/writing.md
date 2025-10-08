@@ -17,7 +17,7 @@ Timo Freiesleben and Sebastian Zezulka
 **Prediction, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** \
 Sebastian Zezulka, Konstantin Genin \
 *Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’25)* \
-[Non-archival Paper](https://conference.eaamo.org/conference_information/accepted_papers/papers/prediction_performativity_and_potential_outcomes.pdf){: .btn--research}{:target="_blank"}
+[Non-archival paper](https://conference.eaamo.org/conference_information/accepted_papers/papers/prediction_performativity_and_potential_outcomes.pdf){: .btn--research}{:target="_blank"}
 
 **From the Fair Distribution of Predictions to the Fair Distribution of Social Goods: Evaluating the Impact of Fair Machine Learning on Long-Term Unemployment** \
 Sebastian Zezulka, Konstantin Genin \
