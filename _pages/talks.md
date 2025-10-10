@@ -13,7 +13,7 @@ author_profile: true
 
 **Predictions, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** (with Konstantin Genin).
 - *2nd Workshop on Learning Under Weakly Structured Information*, University of Tübingen, Germany, April 2025.
-- *Rational Intelligence Seminar Series*, CISPA Helmholtz Centre for Information Security, Saarbrücken, Germany, June 2025.
+- *Rational Intelligence Seminar Series*, CISPA Helmholtz Centre for Information Security, Saarbrücken, Germany, June 2025. [Recording](https://www.youtube.com/watch?v=YhCsBKmbpM0){: .btn--research}{:target="_blank"}
 - *EWAF'25: European Workshop on Algorithmic Fairness* **(In-depth presentation)**, Eindhoven, The Netherlands, June 2025.
 - *EPSA 2025, European Philosophy of Science Association* **(Presentation)**, Groningen, The Netherlands, August 2025.
 - *17th Biennial INEM Conference, International Network for Economic Method*, Bayreuth, Germany, September 2025.
