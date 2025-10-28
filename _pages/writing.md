@@ -11,7 +11,8 @@ You can also find my work on [Google Scholar](https://scholar.google.com/citatio
 ## Work in Progress
 ---
 **The Benchmarking Epistemology** \
-Timo Freiesleben and Sebastian Zezulka 
+Timo Freiesleben and Sebastian Zezulka \
+[arXiv](https://doi.org/10.48550/arXiv.2510.23191){: .btn--research}{:target="_blank"}
 
 ## Publications
 ---
