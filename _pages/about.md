@@ -23,7 +23,7 @@ I work on methods for the evaluation of algorithmic policies, performativity in 
 
 ## Education
 
-I hold an MSc in Philosophy of the Social Sciences (LSE, 2020) and in Psychometrics, Econometrics, and Machine Learning (University of Tübingen, 2023) and a BA in Philosophy & Economics (University of Bayreuth, 2019).
+I hold MScs in Philosophy of the Social Sciences (LSE, 2020) and in Psychometrics, Econometrics, and Machine Learning (University of Tübingen, 2023) as well as a BA in Philosophy & Economics (University of Bayreuth, 2019).
 
 ## Volunteering and community work
 
