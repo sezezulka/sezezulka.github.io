@@ -9,9 +9,9 @@ author_profile: true
 
 ## 2025
 ---
-**Local Algorithmic Justice,**, Department of Theoretical Philosophy, University of Groningen, Novemeber 2025.
+**Local Algorithmic Justice,** Department of Theoretical Philosophy, University of Groningen, November 2025.
 
-**Computer says no. Troubles with fixing algorithmic decision-making,** *Philosophy & Science lecture*, Department of Theoretical Philosophy, University of Groningen, Novemeber 2025.
+**Computer says no. Troubles with fixing algorithmic decision-making,** *Philosophy & Science lecture*, Department of Theoretical Philosophy, University of Groningen, November 2025.
 
 **Predictions and Politics**, *Carl Friedrich von Weizsäcker Colloqium*, University of Tübingen, July 2025. [Recording](https://www.youtube.com/watch?v=LtEwufTkpZw){: .btn--research}{:target="_blank"}
 
