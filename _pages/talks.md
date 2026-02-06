@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ---
+## 2026
+---
+**Localising Algorithmic Justice: Making Predictions that Support Decisions and Deliberation,** Symposium "Norms and Practices of Machine Learning in Science", Cluster of Excellence: Machine Learning for Science, University of Tübingen, Feburary 2026. 
 
 ## 2025
 ---
