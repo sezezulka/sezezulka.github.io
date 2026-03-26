@@ -12,7 +12,7 @@ redirect_from:
 
 ## As Instructor
 ---
-- **Ethics and Philosophy of Machine Learning**, Seminar, University of Tübingen, Summer 2026.
+- **Ethics and Philosophy of Machine Learning**, Seminar, University of Tübingen, Summer 2026. [Syllabus](/files/syllabi/2026-Seminar-Ethics-of-ML.pdf){: .btn--research}{:target="_blank"}
 - **What to learn from the impossible? Formal and philosophical topics of impossibility theorems** (with Balthasar Grabmayr and Timo Freiesleben), Seminar, University of Tübingen, Summer 2025. [Syllabus](/files/syllabi/2025-Seminar-Impossible-Syllabus.pdf){: .btn--research}{:target="_blank"}
 - **Philosophy of Science for Machine Learning** (with Konstantin Genin), Seminar, University of Tübingen, Winter 2024/25. [Syllabus](/files/syllabi/2024-25-Seminar-PhilSci4ML-Syllabus.pdf){:target="_blank"}{: .btn--research}{:target="_blank"}
 - **Data Literacy: Machine Learning, Data Visualisation, and Philosophy of Statistics** (with Simon Döbele and Konstantin Lehmann), Seminar, University of Bayreuth, Summer 2022. [Syllabus](/files/syllabi/2022-Seminar-Data-Literacy-Syllabus.pdf){:target="_blank"}{: .btn--research}{:target="_blank"}
