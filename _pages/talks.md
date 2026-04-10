@@ -8,7 +8,7 @@ author_profile: true
 ---
 ## 2026
 ---
-**Performativity**, 3 Lectures in the course *History and Philosophy of Science Lecture*, University of Utah, March 2026.
+**Performativity**, 3 Lectures in the course *History and Philosophy of Science*, University of Utah, March 2026.
 
 **Need, Efficiency, and Merit: How can predictions inform allocation?** Social Data Science and Statistical Learning group, LMU Munich, Feburary 2026.
 
