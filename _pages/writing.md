@@ -11,7 +11,7 @@ You can also find my work on [Google Scholar](https://scholar.google.com/citatio
 ## Work in Progress
 ---
 **Predictions in the Social Sciences**\
-Oliver Buchholz and Sebastian Zezulka \
+Oliver Buchholz and Sebastian Zezulka 
 
 **The Benchmarking Epistemology** \
 Timo Freiesleben and Sebastian Zezulka \
