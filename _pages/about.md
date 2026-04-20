@@ -11,11 +11,12 @@ redirect_from:
 
 I am a PhD student in philosophy of (social) science and machine learning, a member of the research group [Ethics and Epistemology of Machine Learning](https://ethics.epistemology.ai){:target="_blank"} in the [Cluster of Excellence 'Machine Learning for Science,'](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/){:target="_blank"} University of Tübingen, and part of the International Max Planck Research School for Intelligent Systems (IMPRS-IS). 
 
-I am supervised by [Konstantin Genin](https://kgenin.github.io/){:target="_blank"}, [Wolfgang Spohn](https://www.philosophie.uni-konstanz.de/ag-spohn/personen/prof-dr-wolfgang-spohn/){:target="_blank"}, and [Bob Williamson](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/forschung/forschung/cluster-arbeitsgruppen/professuren/foundations-of-machine-learning-systems/){:target="_blank"}. From September to December 2025, I was fortunate to visit [Jan-Willem Romeijn](https://romeijn.web.rug.nl/){:target="_blank"} at the University of Groningen.
+I am supervised by [Konstantin Genin](https://kgenin.github.io/){:target="_blank"}, [Wolfgang Spohn](https://www.philosophie.uni-konstanz.de/ag-spohn/personen/prof-dr-wolfgang-spohn/){:target="_blank"}, and [Bob Williamson](https://fm.ls/){:target="_blank"}. From September to December 2025, I visited [Jan-Willem Romeijn](https://romeijn.web.rug.nl/){:target="_blank"} at the University of Groningen.
+
 
 ## Research
 
-*algorithmic fairness; causal inference; philosophy of social science; statistics and machine learning*
+*algorithmic fairness; ethics of AI; causal inference; philosophy of social science; statistics and machine learning*
 
 I work on methods for the evaluation of algorithmic policies, performativity in algorithmic fairness, and problems of evidence-based policy and philosophy of (social) sciences as they arise in machine learning. 
 
