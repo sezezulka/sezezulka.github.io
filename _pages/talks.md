@@ -8,7 +8,11 @@ author_profile: true
 ---
 ## 2026
 ---
-**Performativity**, 3 Lectures in the course *History and Philosophy of Science*, University of Utah, March 2026.
+**Computer says no. Troubles with fixing algorithmic decision-making,** 5th Tübingen Digital Freedom Days (#TDF5) of the CCC Tübingen, May 2026.
+
+**Einführung in die KI Ethik (Introduction to AI Ethics),** guest lecture in the course *Introduction to Applied Ethics,* University of Mannheim, May 2026.
+
+**Performativity,**, 3 guest lectures as part of the course *History and Philosophy of Science,* University of Utah, March 2026.
 
 **Need, Efficiency, and Merit: How can predictions inform allocation?** Social Data Science and Statistical Learning group, LMU Munich, Feburary 2026.
 
