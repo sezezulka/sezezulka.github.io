@@ -12,7 +12,7 @@ author_profile: true
 
 **Einführung in die KI Ethik (Introduction to AI Ethics),** guest lecture in the course *Introduction to Applied Ethics,* University of Mannheim, May 2026.
 
-**Performativity,**, 3 guest lectures as part of the course *History and Philosophy of Science,* University of Utah, March 2026.
+**Performativity,** 3 guest lectures as part of the course *History and Philosophy of Science,* University of Utah, March 2026.
 
 **Need, Efficiency, and Merit: How can predictions inform allocation?** Social Data Science and Statistical Learning group, LMU Munich, Feburary 2026.
 
@@ -24,7 +24,7 @@ author_profile: true
 
 **Computer says no. Troubles with fixing algorithmic decision-making,** *Philosophy & Science lecture*, Faculty of Philosophy, University of Groningen, November 2025.
 
-**Predictions and Politics**, *Carl Friedrich von Weizsäcker Colloqium*, University of Tübingen, July 2025. [Recording](https://www.youtube.com/watch?v=LtEwufTkpZw){: .btn--research}{:target="_blank"}
+**Predictions and Politics,** *Carl Friedrich von Weizsäcker Colloqium*, University of Tübingen, July 2025. [Recording](https://www.youtube.com/watch?v=LtEwufTkpZw){: .btn--research}{:target="_blank"}
 
 **Predictions, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** (with Konstantin Genin).
 - *2nd Workshop on Learning Under Weakly Structured Information*, University of Tübingen, Germany, April 2025.
@@ -50,7 +50,7 @@ author_profile: true
 
 **Science as a Kaggle Challenge. How Benchmarking Impacts Scientific Methodology** (with Timo Freiesleben), *ML, Explain Yourself!*, Utrecht University, The Netherlands, April 2024. 
 
-**Policy, Power, and Politics of Machine Learning**, Lecture in the course *Beyond Fairness*, University of Tübingen Germany, January 2024.
+**Policy, Power, and Politics of Machine Learning,** Lecture in the course *Beyond Fairness*, University of Tübingen Germany, January 2024.
 
 ## 2023
 ---
