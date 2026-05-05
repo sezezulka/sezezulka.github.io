@@ -8,7 +8,7 @@ author_profile: true
 ---
 ## 2026
 ---
-**Computer says no. Troubles with fixing algorithmic decision-making,** 5th Tübingen Digital Freedom Days (#TDF5) of the CCC Tübingen, May 2026. [Conference]{https://tdf.cttue.de/en/index.html}{: .btn--research}{:target="_blank"}
+**Computer says no. Troubles with fixing algorithmic decision-making,** 5th Tübingen Digital Freedom Days (#TDF5) of the CCC Tübingen, May 2026. [Conference](https://tdf.cttue.de/en/index.html){: .btn--research}{:target="_blank"}
 
 **Einführung in die KI Ethik (Introduction to AI Ethics),** guest lecture in the course *Introduction to Applied Ethics,* University of Mannheim, May 2026.
 
