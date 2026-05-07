@@ -16,7 +16,7 @@ I am supervised by [Konstantin Genin](https://kgenin.github.io/){:target="_blank
 
 ## Research
 
-*algorithmic fairness; ethics of AI; causal inference; philosophy of social science; statistics and machine learning*
+*philosophy of (social) sciences; algorithmic fairness; ethics of AI; causal inference;  philosophy of statistics and machine learning*
 
 I work on methods for the evaluation of algorithmic policies, performativity in algorithmic fairness, and problems of evidence-based policy and philosophy of (social) sciences as they arise in machine learning. 
 
