@@ -10,7 +10,7 @@ You can also find my work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Work in Progress
 ---
-**Local Algorithmic Justice.**
+**Local Algorithmic Justice**
 
 **Predictions in the Social Sciences**\
 Oliver Buchholz and Sebastian Zezulka 
