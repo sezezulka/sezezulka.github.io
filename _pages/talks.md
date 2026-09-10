@@ -8,7 +8,7 @@ author_profile: true
 ---
 ## 2026
 ---
-**Local Algorithmic Justice,** *ECAF'26: European Conference on Algorithmic Fairness*(In-depth presentation), Ghent, Belgium, September 2026.
+**Local Algorithmic Justice,** *ECAF'26: European Conference on Algorithmic Fairness* **(In-depth presentation)**, Ghent, Belgium, September 2026.
 
 **Computer says no. Troubles with fixing algorithmic decision-making,** 5th Tübingen Digital Freedom Days (#TDF5), organized by the Chaostreff Tübingen e.V. (CTT), Tübingen, Germany, May 2026. [Recording](https://media.ccc.de/v/tdf5-125-computer-says-no-troubles-with-fixing-algorithmic-decision-making-){: .btn--research}{:target="_blank"}
 
