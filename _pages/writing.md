@@ -15,15 +15,18 @@ You can also find my work on [Google Scholar](https://scholar.google.com/citatio
 **Predictions in the Social Sciences**\
 Oliver Buchholz and Sebastian Zezulka 
 
-**The Benchmarking Epistemology** \
-Timo Freiesleben and Sebastian Zezulka \
-[arXiv](https://doi.org/10.48550/arXiv.2510.23191){: .btn--research}{:target="_blank"}
+
 
 ## Publications
 ---
+**The Benchmarking Epistemology** \
+Timo Freiesleben and Sebastian Zezulka \
+*Philosophy of Science*, forthcoming \
+[arXiv](https://doi.org/10.48550/arXiv.2510.23191){: .btn--research}{:target="_blank"}
+
 **Prediction, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** \
 Sebastian Zezulka, Konstantin Genin \
-*Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’25)* \
+*Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’25)*, 2025 \
 [Abstract](https://doi.org/10.1145/3757887.3767685){: .btn--research}{:target="_blank"} 
 [Non-archival paper](https://conference2025.eaamo.org/conference_information/accepted_papers/papers/prediction_performativity_and_potential_outcomes.pdf){: .btn--research}{:target="_blank"} 
 [Presentation](https://www.youtube.com/watch?v=3PNGojlybMU&list=PLn0nrSd4xjjYXo0gYxc4XgyA3ekGoCLr5&index=26){: .btn--research}{:target="_blank"}
