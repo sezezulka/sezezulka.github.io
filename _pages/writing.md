@@ -21,7 +21,8 @@ Oliver Buchholz and Sebastian Zezulka
 ---
 **The Benchmarking Epistemology: Validity Theory for Evaluating Machine Learning Models** \
 Timo Freiesleben and Sebastian Zezulka \
-*Philosophy of Science*, forthcoming \
+*Philosophy of Science*, 2026 \
+[DOI](https://doi.org/10.1017/psa.2026.10280){: .btn--research}{:target="_blank"}
 [arXiv](https://doi.org/10.48550/arXiv.2510.23191){: .btn--research}{:target="_blank"}
 
 **Prediction, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems** \
