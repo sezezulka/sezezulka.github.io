@@ -14,7 +14,7 @@ You can also find my work on [Google Scholar](https://scholar.google.com/citatio
 
 **Predictions in the Social Sciences**\
 Oliver Buchholz and Sebastian Zezulka \
-*CComprehensive Philosophy of Science,* chapter 3.12, Elsevier, *forthcoming*
+*Comprehensive Philosophy of Science,* chapter 3.12, Elsevier, *forthcoming*
 
 ## Publications
 ---
